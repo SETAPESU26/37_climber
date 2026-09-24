@@ -84,12 +84,8 @@ climber/
 
 ## Submission Checklist
 
-- [] Bug fixed and verified
-- [] All 3 functions implemented
-- [] Game behaves as expected
-- [] No bugs or crashes
-- [] Code reviewed with LLM
-- [] Height, coins, and lives display correctly on screen
-- [] README followed during setup and testing
-- [] Codebase stays clean and understandable
-- [] Submission should include the Chat/LLM used page link with the complete chat history.
+Submission is only the following three things:
+
+- [] A 10-second video of gameplay **before** your changes, showing the bug/broken behavior
+- [] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working
+- [] The Chat/LLM used page link, with the complete chat history
